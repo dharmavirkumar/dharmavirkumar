@@ -1,8 +1,4 @@
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=180&section=header&text=Hey!%20I'm%20Rahul%20Ranjan🚀&fontSize=35&fontColor=ffffff&fontAlign=50" />
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
