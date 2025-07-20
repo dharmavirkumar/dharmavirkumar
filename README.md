@@ -12,10 +12,10 @@
 <!-- Social Media Links -->
 <p align="center">
   <!-- <a href="https://rahul.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-  <a href="https://www.linkedin.com/in/rahulranjan1245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rahulranjan1245@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rxhulr07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/rxhul07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="www.linkedin.com/in/dharmavir-singh1215"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dharmavirkumar1215@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/dharmavirkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
 </p>
 
 ---
@@ -90,15 +90,6 @@
 
 ---
 
-### 📈 GitHub Insights
-
-// <p align="center">
-//   <img src="https://github-readme-stats.vercel.app/api?username=rxhulr07&show_icons=true&theme=radical&border_radius=15" width="48%" />
-//   <img src="https://github-readme-streak-stats.herokuapp.com?user=rxhulr07&theme=radical&border_radius=15" width="48%" />
-//   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxhulr07&layout=compact&theme=radical&border_radius=15" width="48%" />
-// </p>
-
----
 
 <!-- Footer -->
 
